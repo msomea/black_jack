@@ -4,4 +4,5 @@ My name is MSOMEA from Tanzania. Currently taking PLP software development shola
 I've developed interest in Python language and I thought about giving it
 trial by making this Black Jack Game with beting feature in it.
 Your thought and contribution are welcomed
+For contant please holla me throught email msomearaphael@gmail.com
 Hugs!!!
